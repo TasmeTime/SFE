@@ -1,0 +1,5 @@
+c:\users\shahin\documents\visual studio 2015\Projects\SFE\SFE\bin\Debug\SFE.dll
+c:\users\shahin\documents\visual studio 2015\Projects\SFE\SFE\bin\Debug\SFE.pdb
+c:\users\shahin\documents\visual studio 2015\Projects\SFE\SFE\obj\Debug\SFE.csprojResolveAssemblyReference.cache
+c:\users\shahin\documents\visual studio 2015\Projects\SFE\SFE\obj\Debug\SFE.dll
+c:\users\shahin\documents\visual studio 2015\Projects\SFE\SFE\obj\Debug\SFE.pdb
