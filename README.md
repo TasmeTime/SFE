@@ -19,7 +19,3 @@ byte[] a = sfe.GetBytes(path);
 byte[] b = sfe.Decrypt(a);
 sfe.SaveFile(@"C:\decryptedFile.ext", b);
 ```
-
-##Feel free to ask or have a talk :wink::stuck_out_tongue: 
-
-### Telegram: @TIHWD
